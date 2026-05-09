@@ -1,5 +1,8 @@
 # CryExc Example Backend
 
+> [!WARNING]
+> deprecated in favor of https://github.com/jose-donato/cryexc-history
+
 A simple FastAPI + DuckDB reference implementation for CryExc frontend.
 
 Currently supports **Binance Futures** only. This is meant as a starting point for users who want to build their own backend.
